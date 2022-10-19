@@ -33,7 +33,6 @@ test_set = test_datagen.flow_from_directory('Desktop/dataset/test_set',
 
 
 # ## Part 2 - Building the CNN
-
 # ### Initialising the CNN
 cnn = tf.keras.models.Sequential()
 
